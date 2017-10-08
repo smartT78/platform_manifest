@@ -61,6 +61,9 @@
   <project path="external/jsr305" name="LineageOS/android_external_jsr305" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/koush/AndroidAsync" name="LineageOS/AndroidAsync" />
   <project path="external/koush/ion" name="LineageOS/ion" />
+  <project path="external/libavc" name="LineageOS/android_external_libavc" groups="pdk" />
+  <project path="external/libhevc" name="LineageOS/android_external_libhevc" groups="pdk-fs" />
+  <project path="external/libmpeg2" name="LineageOS/android_external_libmpeg2" groups="pdk" />
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" />
   <project path="external/libnetfilter_conntrack" name="LineageOS/android_external_libnetfilter_conntrack" />
   <project path="external/libnfc-nci" name="LineageOS/android_external_libnfc-nci" groups="pdk" />
@@ -95,6 +98,9 @@
   <project path="external/protobuf-c" name="LineageOS/android_external_protobuf-c" />
   <project path="external/rsync" name="LineageOS/android_external_rsync" />
   <project path="external/sepolicy" name="LineageOS/android_external_sepolicy" groups="pdk" />
+  <project path="external/sfntly" name="LineageOS/android_external_sfntly" groups="pdk,qcom_msm8x26" />
+  <project path="external/sonivox" name="LineageOS/android_external_sonivox" groups="pdk" />
+  <project path="external/sqlite" name="LineageOS/android_external_sqlite" groups="pdk" />
   <project path="external/skia" name="LineageOS/android_external_skia" groups="pdk,qcom_msm8x26" />
   <project path="external/speex" name="LineageOS/android_external_speex" groups="pdk" />
   <project path="external/spongycastle" name="LineageOS/android_external_spongycastle" groups="pdk" />
@@ -105,6 +111,7 @@
   <project path="external/tinycompress" name="LineageOS/android_external_tinycompress" groups="pdk" />
   <project path="external/tinyxml2" name="LineageOS/android_external_tinyxml2" groups="pdk" />
   <project path="external/toybox" name="LineageOS/android_external_toybox" groups="pdk" />
+  <project path="external/tremolo" name="LineageOS/android_external_tremolo" groups="pdk" />
   <project path="external/uicommon" name="LineageOS/android_external_cyanogen_UICommon" />
   <project path="external/unrar" name="LineageOS/android_external_unrar" />
   <project path="external/unzip" name="LineageOS/android_external_unzip" />
@@ -118,6 +125,7 @@
   <project path="frameworks/compile/mclinker" name="LineageOS/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="LineageOS/android_frameworks_compile_slang" groups="pdk" />
   <project path="frameworks/ex" name="LineageOS/android_frameworks_ex" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/minikin" name="LineageOS/android_frameworks_minikin" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/ml" name="LineageOS/android_frameworks_ml" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/multidex" name="LineageOS/android_frameworks_multidex" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/native" name="LineageOS/android_frameworks_native" groups="pdk" />
@@ -175,6 +183,7 @@
   <project path="packages/apps/Camera2" name="LineageOS/android_packages_apps_Camera2" groups="pdk-fs" />
   <project path="packages/apps/CarrierConfig" name="LineageOS/android_packages_apps_CarrierConfig" groups="pdk-fs" />
   <project path="packages/apps/CellBroadcastReceiver" name="LineageOS/android_packages_apps_CellBroadcastReceiver" groups="pdk-fs" />
+  <project path="packages/apps/CertInstaller" name="LineageOS/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/CMBugReport" name="LineageOS/android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMUpdater" name="LineageOS/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" name="LineageOS/android_packages_apps_CMWallpapers" />
@@ -252,5 +261,4 @@
   <project path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="LineageOS/android_packages_apps_OpenWeatherMapProvider" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="LineageOS/android_packages_apps_WundergroundWeatherProvider" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider" name="LineageOS/android_packages_apps_YahooWeatherProvider" />
-
 </manifest>

@@ -36,8 +36,4 @@
 
 <!-- Include AOSP manifest -->
   <include name="aosp.xml" />
-
-<!-- Include Android-Security manifest -->
-  <include name="android-security.xml" />
-  
 </manifest>

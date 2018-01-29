@@ -9,6 +9,7 @@
   <project path="external/DUtils" name="external_DUtils" remote="rr" />
   <project path="external/sepolicy" name="android_external_sepolicy" groups="pdk" remote="rr" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="rr" />
+  <project path="frameworks/ex" name="RR-Security/android_frameworks_ex" remote="github" revision="marshmallow" />
   <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="rr" />
   <project path="frameworks/opt/cards" name="frameworks_opt_cards" remote="rr" />
   <project path="packages/apps/DUI" name="packages_apps_DUI" remote="rr" />
